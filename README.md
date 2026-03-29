@@ -1,5 +1,5 @@
 # studia_zaoczne
 Podstawy programowania
-## Rozdział pierwszy
+## Rozdział 1
 Testy programowania
 Polegający na oddaniu kodu do klienta
